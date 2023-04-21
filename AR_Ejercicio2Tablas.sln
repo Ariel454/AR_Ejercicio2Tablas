@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_Ejercicio2Tablas", "AR_Ejercicio2Tablas.csproj", "{B9533150-9EBA-4747-B65A-4CD72ECBB244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9533150-9EBA-4747-B65A-4CD72ECBB244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9533150-9EBA-4747-B65A-4CD72ECBB244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9533150-9EBA-4747-B65A-4CD72ECBB244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9533150-9EBA-4747-B65A-4CD72ECBB244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47034A3B-1A30-4FC4-84A6-33E4AEDCD768}
+	EndGlobalSection
+EndGlobal
